@@ -671,4 +671,3 @@ st.markdown(
     not official meteorological forecasts.
     """
 )
-isko attractive and beautiful banao isko update karo minimum 5 graph include hone chahiye streamlit dashboard m aur 1500 plus line ka code hona chahiye
